@@ -59,21 +59,4 @@ for px in range(0,height) :
 cv2.imshow('background' , background)
 
 
-                
-
-            
-
-      
-            
-
-        
-
-
-
-
-
-
-
-
-
-
+  
